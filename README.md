@@ -89,8 +89,6 @@ After running `model.py`, you will see:
 |---|---|
 | **R² Score** | How well the model fits the data (1.0 = perfect) |
 | **MAE** | Mean Absolute Error |
-| **MSE** | Mean Squared Error |
-| **RMSE** | Root Mean Squared Error |
 
 ---
 
